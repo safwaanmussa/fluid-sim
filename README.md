@@ -83,12 +83,4 @@ This project was inspired by and built upon the work of several researchers and 
 - Harris, M. (2004). Fast Fluid Dynamics Simulation on the GPU. In GPU Gems: Programming Techniques, Tips, and Tricks for Real-Time Graphics. Addison-Wesley Professional. [Link](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu)
 - The Coding Train. (2017). Coding Challenge #132: Fluid Simulation. [Youtube](https://www.youtube.com/watch?v=alhpH6ECFvQ)
 
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - safwaanmussa28@gmail.com
-
-Project Link: [https://github.com/safwaanmussa/fluid-sim](https://github.com/safwaanmussa/fluid-sim)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
