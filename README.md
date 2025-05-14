@@ -39,7 +39,7 @@ This project is a 2D fluid simulation based on the Navier-Stokes equations, impl
 
 * C
 * [Raylib](https://www.raylib.com/)
-* GCC Compiler
+* GCC Compiler or MSVC
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -55,7 +55,14 @@ To get a local copy up and running, follow these steps:
    ```sh
    make
    ```
-4. Run the simulation. For Windows this is main.exe in the root directory.
+
+   Or
+  ```sh
+   cmake -B build
+   cmake --build build
+   ```
+
+4. Run the simulation. For Windows this is main.exe in the root directory. Or in build/Debug/example.exe for CMake
 
 <!-- USAGE -->
 ## Usage
